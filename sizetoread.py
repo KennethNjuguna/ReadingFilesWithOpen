@@ -1,4 +1,4 @@
-#File objects
+#File objects size to read
 
 with open('Open.txt','r') as f:
 	size_to_read=10
