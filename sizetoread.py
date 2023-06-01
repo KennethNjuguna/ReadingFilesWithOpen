@@ -1,4 +1,4 @@
-#File objects size to read
+#File objects size to read without lossing pixels
 
 with open('Open.txt','r') as f:
 	size_to_read=10
